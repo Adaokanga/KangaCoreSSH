@@ -1,12 +1,9 @@
 Aqui está o README.md refatorado exatamente no mesmo estilo do arquivo original, apenas com os dados atualizados para o KANGA CORE SSH:
 
-```markdown
 # 🛡️ KANGA CORE SSH
 
 O **KANGA CORE** é um painel de gerenciamento SSH robusto e moderno, desenvolvido em **PHP** e **Bash**.  
 Ele oferece controle total sobre usuários, limites, validades e monitoramento do sistema, ideal para servidores SSH de acesso remoto.
-
----
 
 ## 🚀 Instalação
 
