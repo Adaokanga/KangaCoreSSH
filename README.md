@@ -155,5 +155,3 @@ php /opt/KangaCore/menu.php manageKangaAPI
 ```
 
 Para suporte: https://t.me/+btRH6KWXgVQ0NGQ0
-
-```
